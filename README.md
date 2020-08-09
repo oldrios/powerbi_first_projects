@@ -6,6 +6,8 @@ Passionate about numbers and the wonderful possibility of transforming data into
 
 Here you'll find since my first project, the purpose is show my evolution about the chalanges.
 
+![](https://i.ibb.co/Bn1NfGS/skills-fw.png) 
+
 Some of my studies about PowerBI, SQL, Databases, Python and Machine Learning.
 
 - [Master PowerBI - De A à Z](https://www.udemy.com/certificate/UC-b0297240-1212-4203-91bd-29b4864c0a3e/) Unidados - Udemy | Completion 5/12/20
