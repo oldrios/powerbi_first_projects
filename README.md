@@ -4,7 +4,7 @@ Hi, my name is Oldaque Rios n' I have 24 years old.
 
 Passionate about numbers and the wonderful possibility of transforming data into information and knowledge, thus enabling good decision making.
 
-Here you'll find since my first PowerBI project, the purpose is show my evolution about the chalanges. 
+Here you'll find since my first project, the purpose is show my evolution about the chalanges.
 
 Some of my studies about PowerBI, SQL, Databases, Python and Machine Learning.
 
