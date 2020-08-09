@@ -1,1 +1,0 @@
-Portfólio de projetos pessoais.
