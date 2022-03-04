@@ -15,3 +15,7 @@ This project I made to pratice and apply my adquired skills with new challanges,
 - DAX and M
 - Fireworks CS6
 
+<br>
+
+***Preview do Dashboard:***
+<html><body><iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiNDA2NGM3YjgtMDM1ZS00Nzk4LWEzM2MtYzI5NTM4NTFiNjIyIiwidCI6ImQzMjE5YmM2LTNiYzMtNDU4Zi1iOTUwLTY1YjkzM2E0NWQ5NiJ9" frameborder="0" allowFullScreen="true"></iframe></body></html>
